@@ -1,0 +1,9 @@
+[submodule "3rd/lua-cjson"]
+	path = 3rd/lua-cjson
+	url = https://github.com/efelix/lua-cjson.git
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/cloudwu/skynet.git
+[submodule "3rd/lua-webclient"]
+	path = 3rd/lua-webclient
+	url = https://github.com/dpull/lua-webclient.git
