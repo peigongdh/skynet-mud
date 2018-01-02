@@ -11,8 +11,6 @@ skynet.start(function()
     end
 
     skynet.newservice("simpleweb")
-    -- skynet.newservice("testsocket", "", 0)
-
     skynet.uniqueservice("protoloader")
     skynet.uniqueservice("room_implement")
     skynet.uniqueservice("persistent_implement")

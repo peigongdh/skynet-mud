@@ -38,6 +38,7 @@ loginserver_port = 8003
 loginserver_slave_instance = 8
 
 -- third party authenticate config (in loginserver)
+auth_protocol = "https://"
 auth_host = "devzhihu.zhangpei.online"
 auth_url = "/api/auth"
 
